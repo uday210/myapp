@@ -15,14 +15,7 @@
     </thead>
     <tbody>
     </tbody>
-      <tfoot>
-        <th>Department Name</th>
-        <th>Name</th>
-        <th>Birthdate</th>
-        <th>Phone</th>
-        <th>Email</th>
-       
-    </tfoot>
+     
 </table>
  
 <script
