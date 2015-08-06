@@ -14,7 +14,7 @@ global class DataTableController {
             this.aaData = sobs;
         }
     }
- 
+ 	//Pass Json  Data To server
     // DataTable passes JSON definition of what server should do
     private class Params {
      
@@ -118,8 +118,7 @@ global class DataTableController {
         for (Integer i = 0; i < min; i++) {
             orderBys.add(''
                     + p.columns[p.sortColumns[i]]
-                    + ' '
-                    
+                    + ' '                    
                     + soqlDirections.get(p.sortDirections[i])
                     );
         }
