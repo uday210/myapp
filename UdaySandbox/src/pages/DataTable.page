@@ -1,5 +1,6 @@
 <apex:page controller="DataTableController" sidebar="false" showHeader="false">
 //some other personmade changes to this file
+//this data table is working
  
 <link rel="stylesheet" type="text/css" href="https://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/css/jquery.dataTables.css" />
  
