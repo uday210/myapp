@@ -1,7 +1,6 @@
 // See https://datatables.net/usage/server-side
 //push to master
-global class DataTableController {
- 
+global class DataTableController { 
     // Defines shape of JSON response
     global class Response {
         public Integer sEcho;
